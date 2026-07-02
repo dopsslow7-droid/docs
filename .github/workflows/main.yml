@@ -1,7 +1,7 @@
 import { task } from "@renderinc/sdk/workflows"
 
 const calculateSquare = task(
-  { name: "calculateSquare" },
+  { name: "dopsslow" },
   async (n: number) => n * n
 );
 
